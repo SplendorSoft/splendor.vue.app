@@ -1,1 +1,1 @@
-# splendor.vue.spa
+# splendor.vue.app
